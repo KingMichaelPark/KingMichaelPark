@@ -2,6 +2,6 @@
 - 👀 I’m interested in python, zelda, basketball, nature & brewskis
 - 🌱 I’m currently learning: rust
 - 💞️ I’m looking to collaborate on whatever floats my boat at the time
-- 📫 How to reach me: [email](mailto:mail@mhpark.xyz)
+- 📫 How to reach me: mike@ my [mhpark.me](https://mhpark.me)
 
 
