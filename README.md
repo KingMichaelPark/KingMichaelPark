@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: rust
 - 💞️ I’m looking to collaborate on whatever floats my boat at the time
 
-- 📫 How to reach me: mike@ my website
--  [mhpark.me](https://mhpark.me)
+- 📫 How to reach me:
+-  <a rel="me" href="https://fosstodon.org/@mdawg">Mastodon</a>
 
 
